@@ -18,4 +18,4 @@ $ cd TIC-TAC-TOE-GAME
 $ npm install
 
 # Run the app
-$ npm start
+$ npx expo start
