@@ -2,15 +2,14 @@
 
 
 ## :rocket: Knowledges
- - `ReactJS`
- - `Framer Motion`
+ - `ReactNative`
 
 ## :book: How to use
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [NodeJS]installed on your computer. From your command line:
 
 ```
 # Clone this repository
-$ git clone https://github.com/YoucefHmd/TIC-TAC-TOE-GAME.git
+$ git clone git@github.com:mukulsaini95/TicTacToe.git
 
 # Go into the repository
 $ cd TIC-TAC-TOE-GAME
@@ -20,9 +19,6 @@ $ npm install
 
 # Run the app
 $ npm start
-```
-## :link: Demo
-  - <a target="_blank" href="https://YoucefHmd.github.io/TIC-TAC-TOE-GAME/"> Click Here </a> to see and play by yourself a demo of the game.
 
 ## :mailbox: Contact
   - <a target="_blank" href="mailto:youcef.hammadi.y.s.p@gmail.com">E-mail</a>
