@@ -19,6 +19,3 @@ $ npm install
 
 # Run the app
 $ npm start
-
-## :mailbox: Contact
-  - <a target="_blank" href="mailto:youcef.hammadi.y.s.p@gmail.com">E-mail</a>
